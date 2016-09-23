@@ -117,7 +117,7 @@
             tokens.push("active");
         }
 
-        return "img/pview/weights/" + tokens.join(" ") + ".png";
+        return "img/pview/weights/" + tokens.join("") + ".png";
     }
 
     /**
